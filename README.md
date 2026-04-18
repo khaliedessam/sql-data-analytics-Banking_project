@@ -42,10 +42,10 @@ The `Docs` folder includes visual project assets:
 
 ![Data Flow Diagram](Docs/Data%20flow%20diagram.png)
 
-### Data Modeling
-
-![Data Modeling](Docs/Data%20Modeling.png)
-
 ### Integration Model
 
 ![Integration Model](Docs/Integration%20Model.png)
+
+### Data Modeling
+
+![Data Modeling](Docs/Data%20Modeling.png)
