@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Banking SQL Data Analytics Project
 
 This project builds a SQL Server data warehouse for banking data using a medallion-style architecture (`bronze` -> `silver` -> `gold`). It loads raw CSV files, standardizes them into curated warehouse objects, and exposes business-ready views for exploratory analysis and reporting.
@@ -100,6 +101,8 @@ Analysis topics included in the repository:
 - KPI exploration
 - advanced business analysis with window functions and CTEs
 =======
+=======
+>>>>>>> 779bd3e5d42e0f50cb6fe671580074c7548a4568
 # Data Warehouse and Analytics Project
 
 Welcome to the Data Warehouse and Analytics Project repository.
@@ -135,6 +138,9 @@ Develop a modern data warehouse using SQL Server to consolidate banking transact
 - **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
 - **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+<<<<<<< HEAD
+>>>>>>> 779bd3e5d42e0f50cb6fe671580074c7548a4568
+=======
 >>>>>>> 779bd3e5d42e0f50cb6fe671580074c7548a4568
 
 ## Data Model and Documentation
@@ -146,10 +152,13 @@ The `Docs` folder includes visual project assets:
 ![Data Flow Diagram](Docs/Data%20flow%20diagram.png)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Data Modeling
 
 ![Data Modeling](Docs/Data%20Modeling.png)
 
+=======
+>>>>>>> 779bd3e5d42e0f50cb6fe671580074c7548a4568
 =======
 >>>>>>> 779bd3e5d42e0f50cb6fe671580074c7548a4568
 ### Integration Model
@@ -157,7 +166,13 @@ The `Docs` folder includes visual project assets:
 ![Integration Model](Docs/Integration%20Model.png)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 These diagrams illustrate the end-to-end warehouse flow, data model structure, and integration design used in the project.
+=======
+### Data Modeling
+
+![Data Modeling](Docs/Data%20Modeling.png)
+>>>>>>> 779bd3e5d42e0f50cb6fe671580074c7548a4568
 =======
 ### Data Modeling
 
@@ -180,6 +195,7 @@ These diagrams illustrate the end-to-end warehouse flow, data model structure, a
 |-- Test/
 `-- README.md
 ```
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 ## How To Run
@@ -224,6 +240,8 @@ This project helps answer questions such as:
 - reporting views
 - data quality validation
 =======
+=======
+>>>>>>> 779bd3e5d42e0f50cb6fe671580074c7548a4568
 ## 🚀 How to Run This Project 
 ### 1️⃣ Prerequisites
 
@@ -368,4 +386,7 @@ This script:
   - `gold.fact_transactions`
 
 ---
+<<<<<<< HEAD
+>>>>>>> 779bd3e5d42e0f50cb6fe671580074c7548a4568
+=======
 >>>>>>> 779bd3e5d42e0f50cb6fe671580074c7548a4568
