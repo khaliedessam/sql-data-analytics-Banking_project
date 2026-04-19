@@ -210,3 +210,16 @@ This script:
   - `gold.fact_transactions`
 
 ---
+🧠 Step 4 — Run Analytics Queries
+
+With the Gold layer in place, the project moves into the analytics phase, where structured SQL queries are used to transform raw banking data into actionable business insights.
+This layer focuses on understanding customer behavior, transaction patterns, and financial performance using a systematic analytical approach.
+
+### Execution Guide
+1. **Navigate to the folder**: Open `scripts/analytics/` in your SQL client.
+2. **Run in sequence**:Execute files from  `scripts/analytics/` for a structured and logical analysis flow, or run specific scripts based on your needs.
+3.In addition to analytical scripts, the project includes dedicated reporting queries that summarize insights into business-ready views:
+- `report_customer` → Customer behavior and segmentation insights
+- `report_accounts` → Account type performance and activity analysis
+- `report_merchants` → Merchant performance and revenue contribution
+- `report_time` → Time-based trends and financial patterns
