@@ -218,7 +218,7 @@ This layer focuses on understanding customer behavior, transaction patterns, and
 ### Execution Guide
 1. **Navigate to the folder**: Open `scripts/analytics/` in your SQL client.
 2. **Run in sequence**:Execute files from  `scripts/analytics/` for a structured and logical analysis flow, or run specific scripts based on your needs.
-3. **In addition to ** analytical scripts, the project includes dedicated reporting queries that summarize insights into business-ready views:
+3. **In addition to** analytical scripts, the project includes dedicated reporting queries that summarize insights into business-ready views:
 - `report_customer` → Customer behavior and segmentation insights
 - `report_accounts` → Account type performance and activity analysis
 - `report_merchants` → Merchant performance and revenue contribution
